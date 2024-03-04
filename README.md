@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.f38ogomXVacFopU7b8_CYwHaEb?w=305&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7)](https://Sheshaniiz.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?w=329&h=105&c=7&r=0&o=5&dpr=1.3&pid=1.7)](https://Sheshaniiz.io)
 <h1 align="center">Hi 👋, I'm Sheshani Sooriyanayake</h1>
 <h3 align="center">A software Engineering Undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&usqp=CAU">
